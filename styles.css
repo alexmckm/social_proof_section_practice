@@ -16,6 +16,7 @@ body {
     margin: 50px 0;
     font-size: 15px;
     font-family: 'League Spartan', sans-serif;
+    line-height: 1.2rem;
 }
 
 .tout {
@@ -203,8 +204,9 @@ div.colton {
         grid-area: 3 / 3 / 9 / 4;
     }
 
-    .avis {
+    div.avis {
         max-width: 350px;
+        height: 232px;
     }
 
     .verbatim {
